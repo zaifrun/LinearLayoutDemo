@@ -2,9 +2,10 @@ package org.pondar.linearlayoutdemo;
 
 import android.os.Bundle;
 import android.app.Activity;
+import android.support.v7.app.AppCompatActivity;
 import android.view.Menu;
 
-public class MainActivity extends Activity {
+public class MainActivity extends AppCompatActivity {
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
